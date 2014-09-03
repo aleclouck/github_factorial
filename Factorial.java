@@ -21,7 +21,7 @@ public class Factorial {
  
          System.out.println("Factorial of "+n+" is = "+fact);
       }
-
-    
+    System.out.println("Changes after My first commit!");  
+    System.out.println("Changes after Pushing to remote!");
     }
 }
