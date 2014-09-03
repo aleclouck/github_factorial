@@ -1,5 +1,3 @@
-
-
 //package factorial;
 import java.util.Scanner;
 
@@ -14,7 +12,7 @@ public class Factorial {
  
       n = in.nextInt();
  
-      if ( n > 0 )
+      if ( n < 0 )
          System.out.println("Number should be non-negative.");
       else
       {
