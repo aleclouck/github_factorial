@@ -1,3 +1,4 @@
 # .gitignore
 # Java class file
 *.class
+*.DS_Store
